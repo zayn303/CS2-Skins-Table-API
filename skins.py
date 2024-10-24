@@ -1,5 +1,5 @@
 # List of CS2 skin items you want to check prices for
-cs2_skins = [
+skins = [
     "'Blueberries' Buckshot | NSWC SEAL"
     "'Medium Rare' Crasswater | Guerrilla Warfare"
     "'The Doctor' Romanov | Sabre"
