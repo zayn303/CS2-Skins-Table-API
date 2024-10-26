@@ -8,3 +8,4 @@ __pycache__/
 # Other files to ignore
 *.log
 *.sqlite3
+cs2_skins.db
